@@ -35,7 +35,7 @@ function imc() {
     
        resultado.textContent = "Preencha todos os campos"
 
-
+console.log("!PICLES")
 
     }
 
